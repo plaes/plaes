@@ -4,4 +4,6 @@
 
 💬 Contact me if you are interested in the stuff I do...
 
+  * [@plaes@Mastodon.social](https://mastodon.social/@plaes)
+
 ⚡ Fun fact: I run my own email server and S3 bucket setup. And also [Mars](https://github.com/readme/nasa-ingenuity-helicopter) ;)
